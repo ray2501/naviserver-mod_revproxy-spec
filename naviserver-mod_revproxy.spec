@@ -12,6 +12,7 @@ Url:            http://bitbucket.org/naviserver/revproxy
 BuildRequires:  make
 BuildRequires:  naviserver
 BuildRequires:  naviserver-devel
+Requires:       naviserver
 Requires:       nsf
 Source0:        %{name}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
