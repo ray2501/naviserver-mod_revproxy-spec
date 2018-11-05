@@ -4,7 +4,7 @@
 
 Summary:        NaviServer revproxy module
 Name:           naviserver-mod_revproxy
-Version:        0.10
+Version:        0.11
 Release:        0
 License:        MPL-1.1
 Group:          Productivity/Networking/Web/Servers
