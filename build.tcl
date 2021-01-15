@@ -1,7 +1,7 @@
 #!/usr/bin/tclsh
 
 set arch "noarch"
-set base "naviserver-mod_revproxy-0.11"
+set base "naviserver-mod_revproxy-0.14"
 
 file mkdir build/BUILD build/RPMS build/SOURCES build/SPECS build/SRPMS
 file copy -force $base.tar.gz build/SOURCES
